@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @E7TRAF702
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Programming
 - 📫 How to reach me:
 - e7traf702@gmail.com
